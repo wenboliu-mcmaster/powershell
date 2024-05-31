@@ -7,7 +7,7 @@
         }
         $bodyToken = @{
             client_id     = "cob_usermanager"
-            client_secret = "J`$PfW#P^`$FDm&QYscjiCu@`$85je%2CWMM2*U7394"
+            client_secret = "xxxx"
             grant_type    = "client_credentials"
             scope         = "external.neworder.v2"
         }
